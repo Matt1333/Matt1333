@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Matt — Data & AI Engineering Student  
 
-<!--
-**Matt1333/Matt1333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student in **Data & Artificial Intelligence**  
+📍 Based in **Paris**, with a strong interest in working and living in **Malta**  
+📊 Passionate about **data analytics, machine learning, and real-world applications**  
+🏟️ Currently working on sports analytics projects (Tennis & Padel)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🎾 Padel & Tennis Analytics — Streamlit App
+An end-to-end Streamlit dashboard analyzing:
+- Evolution of Tennis & Padel licenses in France  
+- Court availability & territorial distribution  
+- Price correlations (DVF)  
+- Interactive maps and visual insights  
+
+👉 **Live App:** https://projet-padel-tennis.streamlit.app  
+👉 **Source Code:** https://github.com/Matt1333/projet-padel-tennis
+
+---
+
+### 🏢 OMNES Immobilier — Real Estate Web Platform
+University group project:  
+- Real estate listing website prototype  
+- Search interface, dynamic pages, responsive frontend  
+- Focused on UI/UX and client-oriented features  
+
+👉 **Source Code:** https://github.com/Matt1333/OMNESImmobilier
+
+---
+
+## 🧠 Skills & Technologies
+
+### Programming
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
+- Java (OOP, algorithms – academic projects)
+- C++ (Ubuntu, CLion) 
+
+### Data
+- Data cleaning & wrangling  
+- Visualization & dashboards  
+- Statistical analysis  
+- Beginning Machine Learning
+
+### Tools
+- Git & GitHub  
+- Streamlit  
+- Jupyter  
+- VS Code  
+- SQL basics
+
+---
+
+## 🌍 About Me
+  
+- Interested in data / AI roles in sport companies  
+- Building a portfolio of **real-world data projects**  
+- Handball player & fitness enthusiast 🏋️‍♂️
+
+---
+
+## 📫 Get in Touch
+
+📧 Email: matt.davidson0513@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/matt-davidson-a8b285288  
+🐙 GitHub: https://github.com/Matt1333  
+
+---
+
+⭐ Always open to collaborations and discussions around Data & AI!
