@@ -16,7 +16,7 @@ An end-to-end Streamlit dashboard analyzing:
 - Price correlations (DVF)  
 - Interactive maps and visual insights  
 
-👉 **Live App:** https://projet-padel-tennis.streamlit.app  
+👉 **Live App:** [https://projet-padel-tennis.streamlit.app](https://projet-padel-tennis-rdzacaecq6raryvtds345m.streamlit.app/)  
 👉 **Source Code:** https://github.com/Matt1333/projet-padel-tennis
 
 ---
