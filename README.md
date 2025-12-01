@@ -20,6 +20,18 @@ An end-to-end Streamlit dashboard analyzing:
 👉 **Source Code:** https://github.com/Matt1333/projet-padel-tennis
 
 ---
+### 📊 Marketing Analytics Dashboard — Cohortes, RFM & CLV
+
+Projet d’analyse marketing sur données e-commerce :  
+- Segmentation clients (RFM) et analyse de cohortes  
+- Estimation de la CLV (empirique & formule fermée)  
+- Scénarios business (rétention, marge, remises) et export de listes clients activables  
+
+👉 **Demo Streamlit :** https://marketing-analytics-app-6mxd3hmj4j2syxufreummj.streamlit.app/  
+👉 **Source Code :** https://github.com/Matt1333/marketing-analytics-streamlit
+
+---
+---
 
 ### 🏢 OMNES Immobilier — Real Estate Web Platform
 University group project:  
