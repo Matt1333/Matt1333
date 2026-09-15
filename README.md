@@ -1,13 +1,24 @@
-# 👋 Hi, I'm Matt — Data & AI Engineering Student  
+# 👋 Hi, I'm Matt — Data & AI Engineering Student
 
-🎓 Engineering student in **Data & Artificial Intelligence**  
+🎓 Final-year engineering student in **Data & Artificial Intelligence** at ECE Paris  
 📍 Based in **Paris**, with a strong interest in working and living in **Malta**  
 📊 Passionate about **data analytics, machine learning, and real-world applications**  
-🏟️ Currently working on sports analytics projects (Tennis & Padel)
+🏟️ Building a portfolio of **sports analytics** projects — football, tennis & padel
 
 ---
 
 ## 🚀 Featured Projects
+
+### ⚽ Spark Player Workload — Big Data pipeline on football data
+Which professional footballers carried the heaviest physical load in 2024–25, and who is most exposed to overuse?
+- Distributed pipeline built with **Apache Spark** inside **Docker**, on 2,854 players from Europe's big five leagues
+- Per-90 load metrics (running, defensive, duels) combined into a workload index and an injury-risk proxy
+- Rankings by player, position and team, written as partitioned Spark outputs
+- Honest section on the model's limitations and what a real tracking-data version would need
+
+👉 **Source Code:** https://github.com/Matt1333/spark-player-workload
+
+---
 
 ### 🎾 Padel & Tennis Analytics — Streamlit App
 An end-to-end Streamlit dashboard analyzing:
@@ -16,21 +27,20 @@ An end-to-end Streamlit dashboard analyzing:
 - Price correlations (DVF)  
 - Interactive maps and visual insights  
 
-👉 **Live App:** [https://projet-padel-tennis.streamlit.app](https://projet-padel-tennis-rdzacaecq6raryvtds345m.streamlit.app/)  
+👉 **Live App:** [projet-padel-tennis.streamlit.app](https://projet-padel-tennis-rdzacaecq6raryvtds345m.streamlit.app/)  
 👉 **Source Code:** https://github.com/Matt1333/projet-padel-tennis
 
 ---
-### 📊 Marketing Analytics Dashboard — Cohortes, RFM & CLV
 
-Projet d’analyse marketing sur données e-commerce :  
-- Segmentation clients (RFM) et analyse de cohortes  
-- Estimation de la CLV (empirique & formule fermée)  
-- Scénarios business (rétention, marge, remises) et export de listes clients activables  
+### 📊 Marketing Analytics Dashboard — Cohorts, RFM & CLV
+Marketing analytics on e-commerce transaction data:
+- Customer segmentation (RFM) and cohort analysis  
+- Customer Lifetime Value estimation (empirical and closed-form)  
+- Business scenarios (retention, margin, discounts) and export of actionable customer lists  
 
-👉 **Demo Streamlit :** https://marketing-analytics-app-6mxd3hmj4j2syxufreummj.streamlit.app/  
-👉 **Source Code :** https://github.com/Matt1333/marketing-analytics-streamlit
+👉 **Live App:** [marketing-analytics-app.streamlit.app](https://marketing-analytics-app-6mxd3hmj4j2syxufreummj.streamlit.app/)  
+👉 **Source Code:** https://github.com/Matt1333/marketing-analytics-streamlit
 
----
 ---
 
 ### 🏢 OMNES Immobilier — Real Estate Web Platform
@@ -46,36 +56,33 @@ University group project:
 ## 🧠 Skills & Technologies
 
 ### Programming
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
-- Java (OOP, algorithms – academic projects)
-- C++ (Ubuntu, CLion) 
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow, PySpark)  
+- SQL  
+- Java, C++, JavaScript (academic projects)
 
-### Data
-- Data cleaning & wrangling  
-- Visualization & dashboards  
-- Statistical analysis  
-- Beginning Machine Learning
+### Data & Big Data
+- Data cleaning, wrangling & feature engineering  
+- Apache Spark, Hadoop (HDFS, YARN, MapReduce), Kafka  
+- ETL (Talend), Docker  
+- Statistical analysis & machine learning
 
-### Tools
-- Git & GitHub  
-- Streamlit  
-- Jupyter  
-- VS Code  
-- SQL basics
+### Visualization & Tools
+- Streamlit, Power BI  
+- Git & GitHub, Jupyter, VS Code
 
 ---
 
 ## 🌍 About Me
   
-- Interested in data / AI roles in sport companies  
-- Building a portfolio of **real-world data projects**  
-- Handball player & fitness enthusiast 🏋️‍♂️
+- Looking for a **6-month end-of-studies internship from January 2027**, in data / AI, ideally in sport
+- Handball player — international with Great Britain U20 (9 caps), now playing in National 3 and coaching youth teams 🤾
+- Fitness enthusiast 🏋️‍♂️
 
 ---
 
 ## 📫 Get in Touch
 
-📧 Email: matt.davidson0513@gmail.com
+📧 Email: matt.davidson0513@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/matt-davidson-a8b285288  
 🐙 GitHub: https://github.com/Matt1333  
 
