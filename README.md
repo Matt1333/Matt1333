@@ -14,8 +14,10 @@ Which professional footballers carried the heaviest physical load in 2024–25, 
 - Distributed pipeline built with **Apache Spark** inside **Docker**, on 2,854 players from Europe's big five leagues
 - Per-90 load metrics (running, defensive, duels) combined into a workload index and an injury-risk proxy
 - Rankings by player, position and team, written as partitioned Spark outputs
+- Interactive Streamlit dashboard on top: risk map (load vs minutes), rankings, filters
 - Honest section on the model's limitations and what a real tracking-data version would need
 
+👉 **Live App:** [spark-player-workload.streamlit.app](https://spark-player-workload-ckgewcsgm8x2bkddlbt7cj.streamlit.app/)  
 👉 **Source Code:** https://github.com/Matt1333/spark-player-workload
 
 ---
