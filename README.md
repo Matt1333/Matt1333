@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Matt — Data & AI Engineering Student
 
 🎓 Final-year engineering student in **Data & Artificial Intelligence** at ECE Paris  
-📍 Based in **Paris**, with a strong interest in working and living in **Malta**  
+📍 Based in **Paris**  
 📊 Passionate about **data analytics, machine learning, and real-world applications**  
 🏟️ Building a portfolio of **sports analytics** projects — football, tennis & padel
 
