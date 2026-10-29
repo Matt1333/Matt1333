@@ -22,6 +22,19 @@ Which professional footballers carried the heaviest physical load in 2024–25, 
 
 ---
 
+### 🟨 Referee Home Bias — do referees whistle the same for both sides?
+For the same number of fouls, do away teams get more yellow cards, and what happens when an AI learns from referees' decisions?
+- 36,511 matches from 12 European leagues over ten seasons: away teams get **+10.8 % more yellow cards per foul**, in all 12 leagues
+- The Covid season as a natural experiment: in empty stadiums the gap drops from +11.9 % to +3.3 %, pointing to crowd pressure
+- Referee-level analysis with 95 % confidence intervals
+- **DistilGPT-2** fine-tuned three ways (full, LoRA, distillation): the model doubles the bias, and only closed-door training brings it back down
+- Interactive Streamlit dashboard with a "try it" simulator: swap home and away, and watch the prediction change
+
+👉 **Live App:** [referee-home-bias.streamlit.app](https://referee-home-bias-br8mx2ecxqxtmbehuqfev8.streamlit.app/)  
+👉 **Source Code:** https://github.com/Matt1333/referee-home-bias
+
+---
+
 ### 🎾 Padel & Tennis Analytics — Streamlit App
 An end-to-end Streamlit dashboard analyzing:
 - Evolution of Tennis & Padel licenses in France  
